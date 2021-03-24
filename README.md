@@ -8,7 +8,7 @@ React Native and Express project.
 	* Install packages by running *npm install* (or *yarn* )
 	* Start server by running *npm start* (or *yarn start*)
 
-* ###Client
+* ### Client
 	* Go to client directory (*cd client*)
 	* Install packages by running *npm install* (or *yarn* )
 	* Connect a device for debugging or run an emulator

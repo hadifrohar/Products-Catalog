@@ -2,6 +2,9 @@
 React Native and Express project.
 
 ## Installation
+-Clone or download the repo.
+- ###### Server
+Go to server directory (cd server)
 
 
 
